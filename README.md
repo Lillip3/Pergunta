@@ -16,7 +16,7 @@ Fiz uma caixa de pergunta só com uma pergunta. À princípio pensei em fazer um
 
 ## 🚀Tecnologias
 
-As seguintes tecnologias:
+As seguintes tecnologias foram usadas:
 
 - HTML
 - CSS
