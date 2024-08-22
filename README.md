@@ -10,7 +10,7 @@ Caixa de pergunta só com uma pergunta.
 ## 💻Projeto
 
 Projeto finalizado✔<br> 
-Fiz uma caixa de pergunta só com uma pergunta. À princípio pensei em fazer uma coisa muito mais simples, porém, conforme fui codando me veio as idéias do que tem nessa projeto. A pergunta e principalmente a resposta considero muito importante para a vida do ser humano, mas acredito que a maioria, por algum motivo, se ofenderá. Além da pergunta coloquei uma explicação no final, com certeza vai te ajudar.
+Fiz uma caixa de pergunta só com uma pergunta. À princípio pensei em fazer uma coisa muito mais simples, porém, conforme fui codando me veio as idéias do que tem nesse projeto. A pergunta e principalmente a resposta considero muito importante para a vida do ser humano, mas acredito que a maioria, por algum motivo, se ofenderá. Além da pergunta coloquei uma explicação no final, com certeza vai te ajudar.
 
 <br>
 
